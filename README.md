@@ -1,1 +1,0 @@
-# -camba-projesi-temel-kodla
